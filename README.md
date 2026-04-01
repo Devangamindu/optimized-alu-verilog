@@ -26,3 +26,9 @@ Integrated performance optimization techniques such as Carry Lookahead Adder for
 Waveform showing state transitions and signal behavior:
 
 <img width="863" height="337" alt="Screenshot 2026-04-01 135919" src="https://github.com/user-attachments/assets/89204826-a80c-4cb2-b235-cd05228fee70" />
+
+## 🎥 Demo Video
+
+This demo shows the simulation waveform and execution of arithmetic and logical operations in the optimized ALU implemented using Verilog. It highlights opcode-based control, flag generation (Carry, Zero), and performance improvements using Carry Lookahead Adder (CLA) and clock gating in Xilinx Vivado.
+
+👉 [Click to watch demo](https://drive.google.com/file/d/17Db0reIHrXR8I65StkawWYTRe8p1706u/view?usp=drivesdk)
