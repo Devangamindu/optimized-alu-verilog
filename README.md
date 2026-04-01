@@ -1,13 +1,14 @@
-# Optimized 4-bit ALU (Verilog)
+2.Designed and implemented a 4 bit ALU using Verilog HDL with optimized RTL design techniques. The ALU supports multiple arithmetic and logical operations controlled through opcode-based execution.
 
-## Description
-Designed and implemented an optimized 4-bit ALU using Verilog HDL. The design supports arithmetic and logical operations using efficient RTL design techniques.
+Integrated performance optimization techniques such as Carry Lookahead Adder for faster computation and clock gating to reduce unnecessary switching activity and improve power efficiency.
 
-## Features
-- Addition, Subtraction
-- AND, OR, XOR, NOT
-- Shift operations
-- Carry and Zero flags
+🔧 Key Features:
+- Parameterized design (scalable bit-width)
+- Opcode-based control logic
+- Arithmetic operations: Addition, Subtraction
+- Logical operations: AND, OR, XOR, NOT
+- Shift operations (left/right)
+- Carry and Zero flag generation
+- Clock gating and enable-based control for power optimization
 
-## Tools Used
-- Xilinx Vivado
+🛠 Tools: Verilog, Xilinx Vivado
