@@ -20,3 +20,10 @@ Integrated performance optimization techniques such as Carry Lookahead Adder for
 ## Files
 - ALU_64_bit.v
 - ALU_64_bit_tb.v
+
+
+## 📊 Simulation Output
+
+Waveform showing state transitions and signal behavior:
+
+
