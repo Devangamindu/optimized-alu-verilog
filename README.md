@@ -26,4 +26,12 @@ Integrated performance optimization techniques such as Carry Lookahead Adder for
 
 Waveform showing state transitions and signal behavior:
 
+## 📊 Simulation Output
 
+Waveform showing state transitions and signal behavior:
+
+## 📊 Simulation Output
+
+Waveform showing state transitions and signal behavior:
+
+<img width="863" height="337" alt="Screenshot 2026-04-01 135919" src="https://github.com/user-attachments/assets/89204826-a80c-4cb2-b235-cd05228fee70" />
