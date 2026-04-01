@@ -31,4 +31,4 @@ Waveform showing state transitions and signal behavior:
 
 This demo shows the simulation waveform and execution of arithmetic and logical operations in the optimized ALU implemented using Verilog. It highlights opcode-based control, flag generation (Carry, Zero), and performance improvements using Carry Lookahead Adder (CLA) and clock gating in Xilinx Vivado.
 
-video link:(https://drive.google.com/file/d/17Db0reIHrXR8I65StkawWYTRe8p1706u/view?usp=drivesdk)
+video link:(https://drive.google.com/file/d/17Db0reIHrXR8I65StkawWYTRe8p1706u/view?usp=drive_link)
